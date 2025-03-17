@@ -1,6 +1,6 @@
 name = "dwpicker"
 
-version = "0.11.3"
+version = "1.0.2"
 
 authors = [
     "Dreamwall Animation",
@@ -14,7 +14,7 @@ description = \
 
 requires = [
     "~python-3",
-    "maya-2022+",
+    "maya-2025+",
 ]
 
 uuid = "dreamwall.dwpicker"
